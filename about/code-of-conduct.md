@@ -1,5 +1,7 @@
 ---
 title: Code of Conduct
+layout: event_noheader
+registration_url: /www-event-testtwo/register/
 ---
 
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe environment for everybody.

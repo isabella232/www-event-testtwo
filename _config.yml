@@ -1,5 +1,4 @@
 remote_theme: "owasp/www--site-theme"
-registration_url: /www-event-testtwo/register/
 plugins:
  - jekyll-include-cache-0.2.0
 

@@ -1,6 +1,7 @@
 ---
 title: The conference team
-layout: multisection
+layout: event_noheader
+registration_url: /www-event-testtwo/register/
 ---
 
 
