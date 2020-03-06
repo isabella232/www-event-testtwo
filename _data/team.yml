@@ -1,0 +1,44 @@
+conferenceteam:
+  - name: Emma Heffernan
+    role: CFP Lead
+    image: team_emma_320x479.jpg
+  - name: Avi Douglen
+    role: CFP co-lead
+    image: team_avi_320x479.png
+  - name: Jeremy Lawrence
+    role: 
+    image: team_jeremy_320x480.jpg
+  - name: Katy Anton
+    role: CFT Lead
+    image: team_Katy_420x480.png
+  - name: Milan Gabor
+    role: 
+    image: team_gabor_320x480.jpg
+  - name: Ric Longenecker
+    role: 
+    image: team_ric_320x480.jpg
+  - name: Wojciech Cichon
+    role: 
+    image: team_wojciech_320x480.jpg
+staff: 
+  - name: Mike McCamon 
+    role: Executive Director
+    image: staff_mike.jpg
+  - name: Harold Blankenship
+    role: Director of Technology and Projects
+    image: staff_harold.jpg
+  - name: Emily Berman
+    role: Director of Events
+    image: staff_emily.jpg
+  - name: Kelly Santalucia
+    role: Director of Corporate Support
+    image: staff_kelly.jpg
+  - name: Dawn Aitken
+    role: Community and Operations Manager
+    image: staff_dawn.png
+  - name: Lisa Jones
+    role: Sales and Marketing Operations Manager
+    image: staff_lisa.jpg
+  - name: Sibah Poede
+    role: Events Coordinator
+    image: staff_sibah.jpg
