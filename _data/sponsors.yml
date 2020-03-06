@@ -1,62 +1,62 @@
-- logo: /assets/images/sponsors/secure-code-warrior.png
+- logo: /www-event-testtwo/assets/images/sponsors/secure-code-warrior.png
   name: Secure Code Warrior
   url: https://securecodewarrior.com
   type: Gold
-- logo: /assets/images/sponsors/synk.png
+- logo: /www-event-testtwo/assets/images/sponsors/synk.png
   name: Synk
   url: http://www.snyk.io/
   backgroundSize: 125px
   type: Sapphire 
-- logo: /assets/images/sponsors/synopsys.png
+- logo: /www-event-testtwo/assets/images/sponsors/synopsys.png
   name: Synopsys
   url: https://www.synopsys.com/
   backgroundSize: 125px
   type: Sapphire
-- logo: /assets/images/sponsors/checkmarx.png
+- logo: /www-event-testtwo/assets/images/sponsors/checkmarx.png
   name: Checkmarx
   url: https://www.checkmarx.com/
   backgroundSize: 125px
   type: Ruby
-- logo: /assets/images/sponsors/contrast-security.png
+- logo: /www-event-testtwo/assets/images/sponsors/contrast-security.png
   name: Contrast Security
   url: https://www.contrastsecurity.com
   backgroundSize: 125px
   type: Ruby
-- logo: /assets/images/sponsors/detectify.png
+- logo: /www-event-testtwo/assets/images/sponsors/detectify.png
   name: Detectify
   url : https://detectify.com
   backgroundSize: 125px
   type: Ruby
-- logo: /assets/images/sponsors/kryptowire.png
+- logo: /www-event-testtwo/assets/images/sponsors/kryptowire.png
   name: Kryptowire
   url :  https://www.kryptowire.com/
   backgroundSize: 125px
   type: Ruby
-- logo: /assets/images/sponsors/security-innovation.png
+- logo: /www-event-testtwo/assets/images/sponsors/security-innovation.png
   name: Security Innovation 
   url: https://www.securityinnovation.com/ 
   backgroundSize: 125px
   type: Ruby
-- logo: /assets/images/sponsors/security_journeylogo.png
+- logo: /www-event-testtwo/assets/images/sponsors/security_journeylogo.png
   name: Security Journey
   url: https://www.securityjourney.com
   backgroundSize: 125px
   type: Ruby
-- logo: /assets/images/sponsors/tala.png
+- logo: /www-event-testtwo/assets/images/sponsors/tala.png
   name: Tala Security
   url: https://www.talasecurity.io
   type: Ruby
-- logo: /assets/images/sponsors/ripstech_black.png
+- logo: /www-event-testtwo/assets/images/sponsors/ripstech_black.png
   name: RIPS Technologies
   url: https://ripstech.com
   backgroundSize: 125px
   type: Ruby
-- logo: /assets/images/sponsors/virtru.png
+- logo: /www-event-testtwo/assets/images/sponsors/virtru.png
   name: Virtru
   url: https://www.virtru.com/
   backgroundSize: 125px
   type: Ruby   
-- logo: /assets/images/sponsors/BCC_Risk.png
+- logo: /www-event-testtwo/assets/images/sponsors/BCC_Risk.png
   name: BCC Risk
   url: https://www.edgescan.com
   backgroundSize: 125px
