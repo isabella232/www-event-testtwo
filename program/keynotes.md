@@ -1,7 +1,7 @@
 ---
 
 title: Keynotes
-permalink: /www-event-testtwo/keynotes/
+permalink: keynotes/
 layout: event_noheader
 
 ---
