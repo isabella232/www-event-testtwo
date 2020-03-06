@@ -6,7 +6,7 @@ permalink: cfp_cft/
 
 ### **Call for Papers and Trainings is closed.  Thank you for your interest.**
 
-**CALL FOR PAPERS (CfP)**
+#### **CALL FOR PAPERS (CfP)**
 
 Application Security Leaders, Software Engineers, and Researchers from all over the world gather at Global AppSec Conferences to drive visibility and evolution in the safety and security of the world’s software - as well as to network, collaborate, and share the newest innovations in the field. 
 
@@ -17,16 +17,13 @@ This year’s tracks follow the traditional OWASP <b>Builder, Breaker, & Defende
 
 Speakers should focus on the following guidance for each of the tracks:
 
-BUILDER - show us how to build more secured apps
-
-BREAKER - show us how not to build more secured apps
-
-DEFENDER - show us world-class application defense, including the tools and techniques enabling detection and response to attacks
-
-LEADERSHIP - show us how to shape and inspire both change and understanding in the teams and organizations around us 
+* BUILDER - show us how to build more secured apps
+* BREAKER - show us how not to build more secured apps
+* DEFENDER - show us world-class application defense, including the tools and techniques enabling detection and response to attacks
+* LEADERSHIP - show us how to shape and inspire both change and understanding in the teams and organizations around us 
 
 
-<b>CfP IMPORTANT DATES:</b> 
+**CfP IMPORTANT DATES:**
 
 CfP Opens <b>January 27, 2020</b>
 
@@ -40,7 +37,7 @@ Program announced  <b>April 2020</b>
 <u>A rolling review will be conducted on submissions.</u>  Submissions submitted earlier are more likely to be accepted, and sooner. 
 
 
-**CALL FOR TRAINERS (CfT)**
+#### **CALL FOR TRAINERS (CfT)**
 
 The Programme Team is formally issuing a call for Trainers, opening <b>January 27,  2020</b>. 
 
