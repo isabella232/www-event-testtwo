@@ -4,9 +4,7 @@ layout: event_noheader
 permalink: cfp_cft/ 
 ---
 
-<h3><strong>Call for Papers and Trainings is closed.  Thank you for your interest.</strong></h3>
-
-<p>
+### **Call for Papers and Trainings is closed.  Thank you for your interest.**
 
 **CALL FOR PAPERS (CfP)**
 
