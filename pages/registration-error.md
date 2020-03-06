@@ -1,14 +1,6 @@
 ---
 
-title: Register
-layout: register
-permalink: /registration-error/
-
----
----
-
 title: Registration Error
-layout: register
 permalink: /registration-cancel/
 
 ---

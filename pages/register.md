@@ -1,20 +1,17 @@
 ---
 
 title: Global AppSec Dublin Registration
-layout: event_noheader
 permalink: /register/
+layout: event_noheader
 
 ---
 
-## Global AppSec - Dublin 2020 Registration
+## Register Today
 
-Welcome to Global AppSec Dublin 2020 presented by the OWASP Foundation. Formerly known as AppSec EU, the Global AppSec Conference is the premier application security conference for developers and security experts. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.
+Welcome to Global AppSec Dublin 2020 presented by the OWASP Foundation. Formerly known as AppSec EU, the Global AppSec Conference is the premier application security conference for developers and security experts. Join us for a celebration of leading application security technologies, speakers, prospects, and community, at this unique event that will build on everything you already know to expect from an OWASP Global Conference.
 
-Join us for a celebration of leading application security technologies, speakers, prospects, and community, at this unique event that will build on everything you already know to expect from an OWASP Global Conference. Questions? [events@owasp.com](mailto:events@owasp.com?subject=Global%20AppSec%20Dublin%20Inquiry)
+**Full agenda to be finalized before March 25th**
 
-### Logistics
-- Conference: Thursday, June 18 through Friday, June 19, 2020
-- Training Offerings: JUne 15-17 and agenda to be finalized before March 25th.
-- Location: Spencer Dock, North Wall Quay, Dublin 1 D01 T1W6, Ireland
+{% include registration_form.md primary_color="#0079a7" %}
 
-{% include registration_form.md %}
+Questions? [events@owasp.com](mailto:events@owasp.com?subject=Global%20AppSec%20Dublin%20Inquiry)
