@@ -1,14 +1,15 @@
 ---
-title: Call for Papers 
+title: Call for Papers and Training
+layout: event_noheader
+permalink: cfp_cft/ 
 ---
 
-<h3><strong>Call for Papers is closed.  Thank you for your interest.</strong></h3>
+<h3><strong>Call for Papers and Trainings is closed.  Thank you for your interest.</strong></h3>
 <p></p>
-<b>INTRODUCTION</b>
+
+*** CALL FOR PAPERS (CfP) ***
 
 Application Security Leaders, Software Engineers, and Researchers from all over the world gather at Global AppSec Conferences to drive visibility and evolution in the safety and security of the world’s software - as well as to network, collaborate, and share the newest innovations in the field. 
-
-<b>CALL FOR PAPERS (CfP) & SUBMISSION</b>
 
 The Global AppSec Programme Team is formally issuing a call for papers, opening <b>27 January 2020.</b> 
 
@@ -38,3 +39,25 @@ Program announced  <b>April 2020</b>
 
 
 <u>A rolling review will be conducted on submissions.</u>  Submissions submitted earlier are more likely to be accepted, and sooner. 
+
+
+*** CALL FOR TRAINERS (CfT) ***
+
+The Programme Team is formally issuing a call for Trainers, opening <b>January 27,  2020</b>. 
+
+As with previous Global AppSec events, we would like to run a number of different training courses of varying lengths over the three days of the conference.
+
+Trainers can apply to give 1, 2, or 3 day classes.  Multiple applications are allowed; one application per class. The training target audience will include developers interested in security as well as security professionals.
+
+We are looking for world-class training courses applicable at all levels - from someone new to the application security field to advanced topics for experienced professionals. However, all training submissions should have a focus on practical skills which are immediately applicable to an attendee’s job.  The course should also have a significant hands-on element, with tasks and exercises to attempt during the training.
+
+
+<b>IMPORTANT DATES:</b>
+
+CfT Opens <b>January 27, 2020</b>
+
+CfT Closes <b>February 29, 2020</b>
+
+Notification of submitters <b>March 20, 2020</b>
+
+Program announced <b>April 2020</b>
