@@ -2,7 +2,6 @@
 
 title: Global AppSec Dublin 2020
 layout: event
-registration_url: register/
 training: June 15 - 17
 conference: June 18 - 19
 venue: Convention Center Dublin
