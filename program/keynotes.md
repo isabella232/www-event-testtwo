@@ -1,7 +1,9 @@
 ---
+
 title: Keynotes
 permalink: /www-event-testtwo/keynotes/
 layout: event_noheader
+
 ---
 
 <div class="keynote-full">
