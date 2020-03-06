@@ -6,6 +6,10 @@ permalink: cfp_cft/
 
 ### **Call for Papers and Trainings is closed.  Thank you for your interest.**
 
+<br>
+
+----
+
 #### **CALL FOR PAPERS (CfP)**
 
 Application Security Leaders, Software Engineers, and Researchers from all over the world gather at Global AppSec Conferences to drive visibility and evolution in the safety and security of the world’s software - as well as to network, collaborate, and share the newest innovations in the field. 
@@ -36,6 +40,7 @@ Program announced  <b>April 2020</b>
 
 <u>A rolling review will be conducted on submissions.</u>  Submissions submitted earlier are more likely to be accepted, and sooner. 
 
+----
 
 #### **CALL FOR TRAINERS (CfT)**
 
