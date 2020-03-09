@@ -1,1 +1,19 @@
-{"id": "prod_GsayWpWCuu0eAO", "name": "Global Test", "currency": "usd", "products": []}
+{
+    "id": "prod_GsayWpWCuu0eAO",
+    "name": "Global Test",
+    "currency": "usd",
+    "products": [
+        {
+            "id": "sku_Gsb0c0K3yd3Vbn",
+            "name": "Early Bird - Full Conference",
+            "amount": 50000,
+            "metadata": {
+                "type": "regular",
+                "display_end": "2020-03-10",
+                "description": "<p>Save $150 on Early Bird Registration. Includes two days conference, meals. receptions, and exhibition</p>",
+                "discountable": "True",
+                "display_order": "1"
+            }
+        }
+    ]
+}
