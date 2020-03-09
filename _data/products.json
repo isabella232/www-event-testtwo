@@ -14,6 +14,18 @@
                 "discountable": "True",
                 "display_order": "1"
             }
+        },
+        {
+            "id": "sku_Gsb1nABsKPHSfT",
+            "name": "Training - iOS Defensive Development Strategies",
+            "amount": 150000,
+            "metadata": {
+                "type": "regular",
+                "inventory": "5",
+                "starting_inventory": "5",
+                "description": "<p>Learn more about iOS vulnerabilities and ways to mitigate issues. <a href=\"https://apple.com\">Apple.com</a>{target=_blank}</p>",
+                "display_order": "2"
+            }
         }
     ]
 }
