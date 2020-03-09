@@ -23,8 +23,9 @@
                 "type": "regular",
                 "inventory": "5",
                 "starting_inventory": "5",
-                "description": "<p>Learn more about iOS vulnerabilities and ways to mitigate issues. <a href=\"https://apple.com\">Apple.com</a>{target=_blank}</p>",
-                "display_order": "2"
+                "description": "<p>Learn more about iOS vulnerabilities and ways to mitigate issues. <a href=\"https://apple.com\">Apple.com</a>.</p>\n<p>And smore text</p>\n<ul>\n<li>A list of items too</li>\n<li>More list items</li>\n<li>and a third.</li>\n</ul>",
+                "display_order": "2",
+                "discountable": "False"
             }
         }
     ]
