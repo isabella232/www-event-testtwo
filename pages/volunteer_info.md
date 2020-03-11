@@ -32,7 +32,7 @@ Global AppSec volunteers are expected to implement the following functions durin
 * REGISTER: It is critical that you register. Discount codes will be distributed to volunteers.
 * BOOK HOTEL: To book a room at the conference hotel use the link above.
 * Conference Passes include: Coffee and lunch on Thursday & Friday, access to the conference talks & expo area, social events, and conference activities.
-* Details on the event schedule can be found [here](/schedule/)
+* Details on the event schedule can be found [here](/wwww-event-testtwo/schedule/)
 * Travel Information - TBD
 
 ## Contact Info
