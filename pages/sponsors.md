@@ -15,6 +15,7 @@ Global AppSec Events provide unique opportunities for members, the community, an
 If you are interested in becoming a Single Event or Corporate Sponsor, please contact 
 [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com?subject=Sponsorship%20Interest) for more information.
 
+---
 ## Exhibitor Opportunities
 
 | Level & Benefits |  Sapphire | Ruby |
@@ -28,6 +29,7 @@ If you are interested in becoming a Single Event or Corporate Sponsor, please co
 | Lead Scanner | One | One |
 | Cost | €10,500 | €7,500 |
 
+---
 ## Sponsorship Opportunities
 
 | Lanyards | Logo Sponsorship ( **NEW** )|
@@ -37,6 +39,7 @@ If you are interested in becoming a Single Event or Corporate Sponsor, please co
 |  | Logo on Event Signange |
 | €4000 | €2500 |
 
+---
 ## Corporate Sponsorship Packages
 
 | Level & Benefits | Diamond | Platinum | Gold | Silver |
