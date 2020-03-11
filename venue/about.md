@@ -1,6 +1,10 @@
 ---
+
 title: About Dublin
 layout: event_noheader
+permalink: /venue/about/
+registration_url: /www-event-testtwo/register/
+
 ---
 
 ### Convention Center Dublin
