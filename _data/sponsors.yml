@@ -11,12 +11,12 @@
   name: Synopsys
   url: https://www.synopsys.com/
   backgroundSize: 125px
-  type: Sapphire
+  type: Silver
 - logo: /www-event-testtwo/assets/images/sponsors/checkmarx.png
   name: Checkmarx
   url: https://www.checkmarx.com/
   backgroundSize: 125px
-  type: Ruby
+  type: Silver
 - logo: /www-event-testtwo/assets/images/sponsors/contrast-security.png
   name: Contrast Security
   url: https://www.contrastsecurity.com
@@ -26,7 +26,7 @@
   name: Detectify
   url : https://detectify.com
   backgroundSize: 125px
-  type: Ruby
+  type: Silver
 - logo: /www-event-testtwo/assets/images/sponsors/kryptowire.png
   name: Kryptowire
   url :  https://www.kryptowire.com/
@@ -41,16 +41,16 @@
   name: Security Journey
   url: https://www.securityjourney.com
   backgroundSize: 125px
-  type: Ruby
+  type: Silver
 - logo: /www-event-testtwo/assets/images/sponsors/tala.png
   name: Tala Security
   url: https://www.talasecurity.io
-  type: Ruby
+  type: Silver
 - logo: /www-event-testtwo/assets/images/sponsors/ripstech_black.png
   name: RIPS Technologies
   url: https://ripstech.com
   backgroundSize: 125px
-  type: Ruby
+  type: Silver
 - logo: /www-event-testtwo/assets/images/sponsors/virtru.png
   name: Virtru
   url: https://www.virtru.com/
