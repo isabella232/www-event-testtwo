@@ -10,6 +10,7 @@ location: Dublin
 background: dublin_rmonty119_1200.jpg
 pitch: "Welcome to Global AppSec Dublin 2020 presented by the OWASP Foundation.
 <br>
+<br>
 Following recent developments relating to COVID-19, the OWASP Foundation has made the difficult decision to postpone the Global AppSec Dublin Conference to February 15-19, 2021. See the blog post for more information.
 <br>
 <br>
