@@ -20,8 +20,6 @@ Join us for a celebration of leading application security technologies, speakers
 
 <!-- rebuild 19 -->
 
-***{{ page.venue }}***
-
 {{ page.pitch }}
 
 
