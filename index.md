@@ -24,5 +24,10 @@ Join us for a celebration of leading application security technologies, speakers
 
 {{ page.pitch }}
 
+{% for menu in site.data.menu %}
+{% if !menu.items or menu.items.size < 1 %}
+{{ menu.title }}
+{% endif %}
+{% endfor %}
 
 
