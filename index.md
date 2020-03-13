@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec Dublin 2020
+title: Global AppSec Dublin 2021
 layout: event
 training: February 15 - 17
 conference: February 18 - 19
