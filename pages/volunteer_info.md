@@ -3,7 +3,6 @@
 title: Volunteer Information
 layout: event_noheader
 permalink: /volunteer/
-registration_url: /www-event-testtwo/register/
 
 ---
 

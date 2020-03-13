@@ -3,7 +3,6 @@
 title: Training Program
 layout: event_noheader
 permalink: /trainings/
-registration_url: /www-event-testtwo/register/
 
 ---
 <section class="training">

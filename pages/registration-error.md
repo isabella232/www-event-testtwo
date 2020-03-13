@@ -2,7 +2,6 @@
 
 title: Registration Error
 permalink: /registration-cancel/
-registration_url: /www-event-testtwo/register/
 layout: event_noheader
 
 ---

@@ -2,7 +2,6 @@
 
 title: Registration Success
 permalink: /registration-success/
-registration_url: /www-event-testtwo/register/
 layout: event_noheader
 
 ---
