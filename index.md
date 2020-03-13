@@ -21,7 +21,7 @@ Join us for a celebration of leading application security technologies, speakers
 
 ---
 
-<!-- rebuild 23 -->
+<!-- rebuild 24 -->
 
 {{ page.pitch }}
 
