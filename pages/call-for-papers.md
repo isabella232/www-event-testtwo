@@ -4,8 +4,6 @@ layout: event_noheader
 permalink: cfp_cft/ 
 ---
 
-{{ site.data.event-details.registration_url }}
-
 ### **Call for Papers and Trainings is closed.  Thank you for your interest.**
 
 <br>
