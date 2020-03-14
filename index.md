@@ -5,7 +5,7 @@ layout: event
 
 ---
 
-<!-- rebuild 25 -->
+<!-- rebuild 26 -->
 
 {{ site.data.event-details.pitch }}
 
